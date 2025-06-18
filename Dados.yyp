@@ -38,10 +38,12 @@
     {"id":{"name":"obj_cliente","path":"objects/obj_cliente/obj_cliente.yy",},},
     {"id":{"name":"obj_servidor","path":"objects/obj_servidor/obj_servidor.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
