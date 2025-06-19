@@ -1,6 +1,6 @@
 // Conectar ao servidor no IP local (127.0.0.1) na porta 50000
 connection = network_create_socket(network_socket_tcp);
-var server = network_connect(connection, "2804:58b0:131:2b01:fc27:7745:c8b6:920b", 50000);
+var server = network_connect(connection, "2804:58b0:131:2b01:647f:25a8:3ff1:27a0", 50000);
 if(server < 0){
 	show_message("Deu Ruim")
 }else{
