@@ -37,14 +37,15 @@
   "resources":[
     {"id":{"name":"obj_cliente","path":"objects/obj_cliente/obj_cliente.yy",},},
     {"id":{"name":"obj_servidor","path":"objects/obj_servidor/obj_servidor.yy",},},
+    {"id":{"name":"obj_vazio","path":"objects/obj_vazio/obj_vazio.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Teste","path":"rooms/Teste/Teste.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
